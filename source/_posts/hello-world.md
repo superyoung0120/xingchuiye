@@ -1,6 +1,16 @@
 ---
-title: Hello World
+title: hexo使用方法
+categories: 笔记
+tags: hexo
+author: 杨超
+comments: true
+index_img: /img/island.png
+excerpt: hexo使用方法
+date: 2025-10-20 22:00:00
+updated: 2025-11-26 23:00:00
+sticky: 1
 ---
+
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
 ## Quick Start
