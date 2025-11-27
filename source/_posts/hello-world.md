@@ -2,7 +2,7 @@
 title: hexo使用方法
 categories: 笔记
 tags: hexo
-author: 杨超
+author: Noodles
 comments: true
 index_img: /img/island.png
 excerpt: hexo使用方法
